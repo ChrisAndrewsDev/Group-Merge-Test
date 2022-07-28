@@ -1,1 +1,2 @@
 Michael = Tired
+Michael added some more text to the file to test the branch and merging feature.
